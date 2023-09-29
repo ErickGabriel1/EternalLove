@@ -30,7 +30,9 @@
     background: #BAD7DF;
     height: 8vh;
   }
-  
+  body{
+    overflow-x: hidden;
+  }
   .background {
     background: url("midia/BG.JPG") no-repeat center center;
     background-size: cover;
